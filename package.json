@@ -1,0 +1,22 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "test-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hunky2001/package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Diyorich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunky2001/package/issues"
+  },
+  "homepage": "https://github.com/Hunky2001/package#readme"
+}
