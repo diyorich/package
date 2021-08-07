@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Hunky2001/package/issues"
   },
-  "homepage": "https://github.com/Hunky2001/package#readme"
+  "homepage": "https://github.com/Hunky2001/package#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
 }
